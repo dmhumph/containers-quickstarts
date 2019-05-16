@@ -1,2 +1,2 @@
 [seed-hosts]
-localhost ansible_connection=local
+master.wellcare-2c91.openshiftworkshop.com
